@@ -1,6 +1,6 @@
 # 🚀 Venture Hub – Startup Ecosystem Desktop Application
 
-![Venture Hub ](Loading_Screen.png)
+![Venture Hub](Loading_Screen.png)
 
 ## 📌 Overview
 **Venture Hub** is a Java-based desktop application that simulates a collaborative ecosystem for **startup founders, mentors, and investors**. Developed as part of our Object-Oriented Programming (OOP) semester project, the platform demonstrates real-world functionality using **Java Swing for UI** and **MySQL for data management**.
