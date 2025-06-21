@@ -50,12 +50,11 @@
 ![Login Screen](Login_image.png)
 
 ### 🏢 Startup Dashboard
-![Startup Dashboard](images/startup_dashboard.png)
+![Startup Dashboard](Startup_Screen.png)
 
 ### 💸 Investor Panel 
-![Investor Growth Graph](images/investor_graph.png)
+![Investor Growth Graph](Investor_Screen.png)
 
 ### 👨‍🏫 Mentor Hiring Interface
-![Mentor Hiring](images/mentor_hiring.png)
-
+![Mentor Hiring](Mentor_Screen.png)
 ---
